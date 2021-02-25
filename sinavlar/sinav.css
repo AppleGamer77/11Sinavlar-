@@ -10,3 +10,8 @@ table{
         font-size: 12px;
     }
 }
+
+.listPhoto{
+    background-image: url("23205442_11.SYnYflar.jpg");
+    background-repeat: no-repeat;
+}
