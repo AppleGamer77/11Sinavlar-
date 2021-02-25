@@ -9,9 +9,14 @@ table{
     tr{
         font-size: 12px;
     }
+    .listPhoto{
+        width: 350px;
+        height: 650px;
+        background-size: 350px 650px;
+    }
 }
 
 .listPhoto{
-    background-image: url("23205442_11.SYnYflar.jpg");
+    background-image: url("WhatsApp Image 2021-02-25 at 22.21.52.jpeg");
     background-repeat: no-repeat;
 }
